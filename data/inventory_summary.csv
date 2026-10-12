@@ -1,0 +1,31 @@
+"product_id","name","category","quantity_on_hand","storage_cost_per_unit","total_ordered"
+1,"Cable","Electronics",240,2.5,67
+2,"Optical Mouse","Electronics",180,0.85,39
+3,"USB-C Adapter","Electronics",8,0.35,60
+4,"Wireless Keyboard","Electronics",95,1.15,92
+5,"HDMI Cable 2m","Electronics",310,0.4,95
+6,"M6 Hex Bolts (100pk)","Hardware",480,0.65,119
+7,"Steel Utility Bracket","Hardware",0,1.4,79
+8,"Surge Protector","Electronics",60,1.8,157
+9,"Power Bank 10k","Electronics",145,1.25,6
+10,"Desk Lamp","Electronics",52,2.1,115
+11,"Bubble Wrap Roll 50ft","Packaging",400,1.1,188
+12,"Shipping Boxes 300x300x300mm","Packaging",220,2.8,36
+13,"Brass Door Hinge ","Hardware",210,0.9,17
+14,"Screwdriver Set","Hardware",75,2.25,81
+15,"Measuring Tape 8m","Hardware",130,1.05,120
+16,"Heavy-Duty Caster Wheel","Hardware",65,3.1,169
+17,"Packing Tape 6-Pack","Packaging",12,1.1,85
+18,"Padded Mailers #2","Packaging",350,1.65,79
+19,"Stretch Wrap Film","Packaging",175,3.4,104
+20,"Gel Pens (Black 12pk)","Office Supplies",420,0.25,84
+21,"A4 Copy Paper Ream","Office Supplies",290,2.15,83
+22,"Mesh Desk Organizer","Office Supplies",85,1.75,96
+23,"High-Vis Vest","Safety Gear",115,0.95,109
+24,"N95 Respirator Masks","Safety Gear",15,1.1,54
+25,"Heavy Duty Stapler","Office Supplies",5,1.3,94
+26,"Sticky Notes 76x76mm","Office Supplies",310,0.45,67
+27,"Dry Erase Markers","Office Supplies",160,0.5,126
+28,"Nitrile Gloves (100pk)","Safety Gear",500,1.2,118
+29,"Safety Glasses","Safety Gear",190,0.75,80
+30,"Steel – Toe Boots","Safety Gear",70,5.8,73

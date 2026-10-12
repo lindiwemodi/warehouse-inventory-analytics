@@ -1,0 +1,31 @@
+product_id,name,category,storage_cost_per_unit
+1,Cable,Electronics,2.5
+2,Optical Mouse,Electronics,0.85
+3,USB-C Adapter,Electronics,0.35
+4,Wireless Keyboard,Electronics,1.15
+5,HDMI Cable 2m,Electronics,0.4
+6,M6 Hex Bolts (100pk),Hardwire,0.65
+7,Steel Utility Bracket,Hardware,1.4
+8,Surge Protector,Electronics,1.8
+9,Power Bank 10k,Electronics,1.25
+10,Desk Lamp,Electronics,2.1
+11,Bubble Wrap Roll 50ft,Packaging,1.1
+12,Shipping Boxes 300x300x300mm,Packaging,2.8
+13,Brass Door Hinge ,Hardware,0.9
+14,Screwdriver Set,Hardware,2.25
+15,Measuring Tape 8m,Hardware,1.05
+16,Heavy-Duty Caster Wheel,Hardware,3.1
+17,Packing Tape 6-Pack,Packaging,1.1
+18,Padded Mailers #2,PACKAGING,1.65
+19,Stretch Wrap Film,Packaging,3.4
+20,Gel Pens (Black 12pk),Office Supplies,0.25
+21,A4 Copy Paper Ream,Office Supplies,2.15
+22,Mesh Desk Organizer,Office Supplies,1.75
+23,High-Vis Vest,Safety Gear,0.95
+24,N95 Respirator Masks,Safety Gare,1.1
+25,Heavy Duty Stapler,Office Supplies,1.3
+26,Sticky Notes 76x76mm,Office Supplies,0.45
+27,Dry Erase Markers,Office Supplies,0.5
+28,Nitrile Gloves (100pk),Safety Gear,1.2
+29,Safety Glasses,Safety Gear,0.75
+30,Steel – Toe Boots,Safety Gear,5.8

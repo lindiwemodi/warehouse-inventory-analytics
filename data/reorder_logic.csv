@@ -1,0 +1,6 @@
+"product_id","name","category","quantity_on_hand","supplier_id","lead_time_days"
+7,"Steel Utility Bracket","Hardware",0,"",15
+25,"Heavy Duty Stapler","Office Supplies",5,25,8
+3,"USB-C Adapter","Electronics",8,3,14
+17,"Packing Tape 6-Pack","Packaging",12,17,7
+24,"N95 Respirator Masks","Safety Gear",15,24,16
