@@ -72,7 +72,9 @@ warehouse_inventory_analysis/
 
 The summary query exports one row per product, joining products, inventory and orders. In Excel Online I formatted it as a Table and added `holding_cost = quantity_on_hand * storage_cost_per_unit`. A PivotTable summarises holding cost by category, and conditional formatting highlights any stock below 20 units.
 
-![Excel PivotTable](screenshots/inventory_summary_screenshot.png)
+![Summary table with holding cost](screenshots/excel_summary_table.png)
+
+![Excel PivotTable: holding cost by category](screenshots/excel_pivot_table.png)
 
 ![Low-stock highlighting](screenshots/excel_low_stock_highlight.png)
 
